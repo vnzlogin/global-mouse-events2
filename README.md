@@ -5,7 +5,7 @@ Global mouse events listener for Node.js (Windows only). Based off of [sentialx/
 ## Installation
 
 ```cmd
-npm i global-mouse-events
+npm i global-mouse-events2
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ Returns:
 ### Example
 
 ```js
-const mouseEvents = require("global-mouse-events");
+const mouseEvents = require("global-mouse-events2");
 
 mouseEvents.on("mouseup", event => {
   console.log(event); // { x: 2962, y: 483, button: 1 }
