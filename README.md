@@ -1,4 +1,4 @@
-# global-mouse-events
+# global-mouse-events 2
 
 Global mouse events listener for Node.js (Windows only). Based off of [sentialx/mouse-hooks](https://github.com/sentialx/mouse-hooks) and [coldKey1/mouse-hooks](https://github.com/coldKey1/mouse-hooks).
 
